@@ -306,7 +306,7 @@ h1 {
   }
   #hackclub {
     font-size: 8em;
-    color: var(--red);
+    color:  rgb(3, 242, 226);
     font-family: "DUBIEL", cursive;
     font-weight: bold;
   }
