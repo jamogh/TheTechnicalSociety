@@ -305,7 +305,7 @@ h1 {
     justify-content: center;
   }
   #hackclub {
-    font-size: 10em;
+    font-size: 8em;
     color: var(--red);
     font-family: "DUBIEL", cursive;
     font-weight: bold;
