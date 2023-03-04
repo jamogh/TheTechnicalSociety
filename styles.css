@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
 
 :root {
   --orange: #f9713d;
@@ -309,7 +309,7 @@ h1 {
   #hackclub {
     font-size: 8em;
     color:  rgb(3, 242, 226);
-    font-family: "Orbitron";
+    font-family: "Bungee Outline";
     font-weight: bold;
   }
 }
@@ -929,7 +929,7 @@ h1 {
     /* text-align: center; */
     font-size: 5em;
     color: var(--red);
-    font-family: "Orbitron";
+    font-family: "Bungee Outline";
     font-weight: bold;
   }
   nav {
