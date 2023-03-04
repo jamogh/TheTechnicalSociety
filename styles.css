@@ -27,7 +27,7 @@ html {
 body {
   font-family: "Roboto", sans-serif !important;
   overflow-x: hidden;
-  background-color: var(--grey) !important;
+  background-color: var(--black) !important;
   font-family: "Exo", sans-serif;
 }
 .context {
