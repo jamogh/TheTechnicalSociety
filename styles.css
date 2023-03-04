@@ -307,7 +307,7 @@ h1 {
   #hackclub {
     font-size: 8em;
     color:  rgb(3, 242, 226);
-    font-family: "ROBINSON OUTLINE";
+    font-family: "Orbitron";
     font-weight: bold;
   }
 }
@@ -927,7 +927,7 @@ h1 {
     /* text-align: center; */
     font-size: 5em;
     color: var(--red);
-    font-family: "ROBINSON OUTLINE";
+    font-family: "Orbitron";
     font-weight: bold;
   }
   nav {
@@ -1053,11 +1053,11 @@ h1 {
 }
 .contributor_text h2{
   color: white !important;
-  font-family: "ROBINSON OUTLINE";
+  font-family: "Orbitron";
   font-size: 3rem ;
 }.contributor_text h4{
   color: white !important;
-  font-family: cursive;
+  font-family: "Abel", sans-serif;
   font-size: 2rem ;
 }
 .contributor_bar{
@@ -1090,7 +1090,7 @@ h1 {
 }
 .contributor_header{
   color: #eb3750;
-  font-family: "ROBINSON OUTLINE";
+  font-family: "Orbitron";
   text-align: center;
   font-size: 36px;
   font-weight: bold;
