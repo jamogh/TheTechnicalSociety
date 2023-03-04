@@ -27,7 +27,7 @@ html {
 body {
   font-family: "Roboto", sans-serif !important;
   overflow-x: hidden;
-  background-color: var(--black) !important;
+  background-color: var(--grey) !important;
   font-family: "Exo", sans-serif;
 }
 .context {
@@ -929,7 +929,7 @@ h1 {
     /* text-align: center; */
     font-size: 5em;
     color: var(--red);
-    font-family: "Bungee Outline";
+    font-family: "Orbitron";
     font-weight: bold;
   }
   nav {
