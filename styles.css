@@ -342,7 +342,7 @@ h1 {
   width: 55px;
   height: 55px;
   line-height: 55px;
-  margin: 0 10px !important;
+  margin: 0 5px !important;
   text-align: center;
   cursor: pointer;
   float: left;
@@ -360,8 +360,8 @@ h1 {
 }
 
 .wrapper ul li:hover .fa-github {
-  color: #62eb62;
-  text-shadow: 0 0 15px #62eb62;
+  color: #04fe04;
+  text-shadow: 0 0 15px #62eb627b;
   transition: all 0.5s ease;
 }
 
@@ -371,8 +371,8 @@ h1 {
 }
 
 .wrapper ul li:hover .fa-instagram {
-  color: #bc2a8d;
-  text-shadow: 0 0 15px #bc2a8d;
+  color: #ff07a4;
+  text-shadow: 0 0 15px #bc2a8ead;
   transition: all 0.5s ease;
 }
 
@@ -382,8 +382,8 @@ h1 {
 }
 
 .wrapper ul li:hover .fa-linkedin-square {
-  color: #00aced;
-  text-shadow: 0 0 15px #00aced;
+  color: #04bcff;
+  text-shadow: 0 0 15px #016e96;
   transition: all 0.5s ease;
 }
 /* gmail */
@@ -402,8 +402,8 @@ h1 {
   transition: all 0.5s ease;
 }
 .wrapper ul li:hover .fa-discord {
-  color: #0056b3;
-  text-shadow: 0 0 15px #0056b3;
+  color: #c703f8;
+  text-shadow: 0 0 15px #9b00b388;
   transition: all 0.5s ease;
 }
 
