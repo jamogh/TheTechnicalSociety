@@ -9,7 +9,7 @@
 :root {
   --orange: #f9713d;
   --red: #eb3750;
-  --grey: #252429;
+  --grey: #00191b;
 }
 *,
 html {
@@ -64,7 +64,7 @@ body {
   list-style: none;
   width: 20px;
   height: 20px;
-  background: rgba(6, 253, 162, 0.301);
+  background: rgba(253, 6, 216, 0.503);
   animation: animate 30s linear infinite;
   animation-direction: reverse;
   bottom: -150px;
@@ -126,7 +126,7 @@ body {
   width: 250px;
   height: 80px;
   animation-delay: 1s;
-  animation-duration: 45s;
+  animation-duration: 20s;
 }
 
 .circles li:nth-child(9) {
@@ -185,7 +185,7 @@ nav {
   color: white;
 }
 .navbars li a:hover {
-  color: var(--red);
+  color: var(--cyan);
   transition: 500ms;
 }
 .hover-line::after {
