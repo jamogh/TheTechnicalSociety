@@ -351,60 +351,60 @@ h1 {
 
 .wrapper ul li .fa {
   margin-top: 20px;
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 
 /*github*/
 .wrapper ul li:hover.github {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 
 .wrapper ul li:hover .fa-github {
-  color: #04fe04;
-  text-shadow: 0 0 15px #62eb627b;
-  transition: all 0.5s ease;
+  color: #04fe11;
+  text-shadow: 0 0 20px #62ebb7d6;
+  transition: all 0.8s ease;
 }
 
 /* instagram */
 .wrapper ul li:hover.instagram {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 
 .wrapper ul li:hover .fa-instagram {
-  color: #ff07a4;
-  text-shadow: 0 0 15px #bc2a8ead;
-  transition: all 0.5s ease;
+  color: #ff0099;
+  text-shadow: 0 0 20px #ff0040ad;
+  transition: all 0.8s ease;
 }
 
 /* linkedin */
 .wrapper ul li:hover.linkedin-square {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 
 .wrapper ul li:hover .fa-linkedin-square {
-  color: #04bcff;
-  text-shadow: 0 0 15px #016e96;
-  transition: all 0.5s ease;
+  color: #006aff;
+  text-shadow: 0 0 20px #00aeff;
+  transition: all 0.8s ease;
 }
 /* gmail */
 .wrapper ul li:hover.envelope {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 
 .wrapper ul li:hover .fa-envelope {
   color: orange;
-  text-shadow: 0 0 15px orangered;
-  transition: all 0.5s ease;
+  text-shadow: 0 0 20px orangered;
+  transition: all 0.8s ease;
 }
 
 /*discord*/
 .wrapper ul li:hover .discord {
-  transition: all 0.5s ease;
+  transition: all 0.8s ease;
 }
 .wrapper ul li:hover .fa-discord {
   color: #c703f8;
-  text-shadow: 0 0 15px #9b00b388;
-  transition: all 0.5s ease;
+  text-shadow: 0 0 20px #00fef6;
+  transition: all 0.8s ease;
 }
 
 .wrapper {
