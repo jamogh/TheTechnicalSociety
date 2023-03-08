@@ -185,7 +185,7 @@ nav {
   color: white;
 }
 .navbars li a:hover {
-  color: var(--cyan);
+  color: var(--orange);
   transition: 500ms;
 }
 .hover-line::after {
@@ -193,7 +193,7 @@ nav {
   display: block;
   width: 0%;
   height: 2px;
-  background-color: var(--aqua);
+  background-color: var(--red);
   transition: width 0.3s;
   text-align: center;
 }
@@ -203,7 +203,7 @@ nav {
 }
 
 .navbars .active {
-  color: var(--torquise);
+  color: var(--teal);
 }
 
 #logo {
