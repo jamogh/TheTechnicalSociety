@@ -64,16 +64,16 @@ body {
   list-style: none;
   width: 20px;
   height: 20px;
-  background: rgba(255, 255, 255, 0.2);
-  animation: animate 25s linear infinite;
+  background: rgba(6, 253, 162, 0.301);
+  animation: animate 30s linear infinite;
   animation-direction: reverse;
   bottom: -150px;
 }
 
 .circles li:nth-child(1) {
   left: 25%;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 20px;
   animation-delay: 0s;
 }
 
@@ -82,28 +82,28 @@ body {
   width: 20px;
   height: 20px;
   animation-delay: 2s;
-  animation-duration: 12s;
+  animation-duration: 10s;
 }
 
 .circles li:nth-child(3) {
   left: 70%;
-  width: 20px;
+  width: 60px;
   height: 20px;
-  animation-delay: 4s;
+  animation-delay: 2s;
 }
 
 .circles li:nth-child(4) {
   left: 40%;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 20px;
   animation-delay: 0s;
-  animation-duration: 18s;
+  animation-duration: 15s;
 }
 
 .circles li:nth-child(5) {
   left: 65%;
-  width: 20px;
-  height: 20px;
+  width: 90px;
+  height: 10px;
   animation-delay: 0s;
 }
 
@@ -116,16 +116,16 @@ body {
 
 .circles li:nth-child(7) {
   left: 35%;
-  width: 150px;
-  height: 150px;
-  animation-delay: 7s;
+  width: 50px;
+  height: 15px;
+  animation-delay: 2s;
 }
 
 .circles li:nth-child(8) {
   left: 50%;
-  width: 25px;
-  height: 25px;
-  animation-delay: 15s;
+  width: 250px;
+  height: 80px;
+  animation-delay: 1s;
   animation-duration: 45s;
 }
 
