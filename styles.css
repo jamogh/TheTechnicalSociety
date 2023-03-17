@@ -203,7 +203,7 @@ nav {
 }
 
 .navbars .active {
-  color: var(--blue);
+  color:  rgb(0, 17, 255);
 }
 
 #logo {
