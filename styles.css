@@ -251,6 +251,9 @@ footer a {
   padding: 20px;
   padding-top: 130px;
 }
+
+
+
 /*scrollbar changes*/
 .no_scroll_bar_visible::-webkit-scrollbar {
   display: none;
@@ -263,15 +266,16 @@ footer a {
   background-color: darkslategrey;
 }
 .scroll_bar_visible::-webkit-scrollbar-thumb {
-  background-color: #eb3750;
+  background-color: #0285ff;
 }
+
 
 /* Content changes of about section */
 #home_about {
   height: 100%;
   background-color: white;
   text-align: justify;
-  padding: 200px 5%;
+  padding: 200px 0%;
   display: flex;
   justify-content: space-between;
 }
@@ -333,6 +337,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
 
 .wrapper ul {
   list-style: none;
