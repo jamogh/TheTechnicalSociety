@@ -303,6 +303,9 @@ h1 {
 .img_box_abt{
   margin-left: 40px;
 }
+.img-box_c{
+  margin-right: 40px;
+}
 .home_illus {
   max-width: 100%;
 }
@@ -354,8 +357,8 @@ h1 {
   margin-bottom: 0;
   margin-top: 6%;
   /*transform: translate(-50%, -50%);*/
-  position: relative;
-  overflow: clip;
+  position: absolute;
+  overflow: visible;
   min-height: 100vh;
 }
 
@@ -364,9 +367,15 @@ h1 {
   z-index: -1;
   top: 0;
   left: 0;
-  bottom: 10dvh;
+  bottom: 20dvh;
   min-width: 100%;
   min-height: 150%;
+}
+.backvidc{
+  position: relative;
+  z-index: -1;
+  bottom: 10dvh;
+  min-width: 100%;
 }
 
 .wrapper ul {
