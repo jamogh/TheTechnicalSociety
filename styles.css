@@ -461,6 +461,7 @@ h1 {
   }
   #hackclub-des {
     font-size: 40px;
+    text-align: inherit;
   }
 }
 @media (max-width: 350px) {
