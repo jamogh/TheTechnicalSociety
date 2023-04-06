@@ -291,6 +291,16 @@ h1 {
   width: 50%;
 }
 .img-box {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  bottom: 10dvh;
+  min-width: 100%;
+  min-height: 150%;
+  margin-left: 0;
+}
+.img_box_abt{
   margin-left: 40px;
 }
 .home_illus {
@@ -298,6 +308,7 @@ h1 {
 }
 .img-box1 {
   margin-right: 40px;
+  overflow: visible;
 }
 @media (max-width: 768px) {
   .img-box {
