@@ -328,7 +328,7 @@ h1 {
   .navbars {
     justify-content: center;
   }
-  #hackclub {
+  #tsociety {
     font-size: 8em;
     color:  rgb(3, 242, 226);
     font-family: "Bungee Outline";
@@ -467,33 +467,33 @@ h1 {
   }
 }
 @media (max-width: 890px) {
-  #hackclub {
+  #tsociety {
     font-size: 8em;
   }
-  #hackclub_welcome {
+  #tsociety_welcome {
     padding-top: 25px;
   }
 }
 @media (max-width: 770px) {
-  #hackclub {
+  #tsociety {
     font-size: 6em;
   }
-  #hackclub_welcome {
+  #tsociety_welcome {
     padding-top: 0px;
   }
-  #hackclub-des {
+  #tsociety-des {
     font-size: 40px;
     text-align: inherit;
   }
 }
 @media (max-width: 350px) {
-  #hackclub {
+  #tsociety {
     font-size: 5em;
   }
-  #hackclub_welcome {
+  #tsociety_welcome {
     padding-top: 0px;
   }
-  #hackclub-des {
+  #tsociety-des {
     font-size: 30px;
   }
 }
@@ -970,7 +970,7 @@ h1 {
   }
 }
 @media (max-width: 490px) {
-  #hackclub {
+  #tsociety {
     /* text-align: center; */
     font-size: 5em;
     color: var(--red);
