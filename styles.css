@@ -1524,3 +1524,24 @@ p {
 .btn-danger:hover {
 	box-shadow: 0 3px 6px rgba(255, 0, 0, 0.4);
 }
+
+
+/*----------------VIROG---------------------*/
+.vrg{
+  position: fixed;
+  z-index: -1;
+  text-align: center;
+  top: 0;
+  left: 0;
+  bottom: 20dvh;
+  min-width: 100%;
+  min-height: 150%;
+}
+
+.proj{
+  font-size: 8em;
+    color:  rgb(3, 242, 226);
+    font-family: "Londrina Outline";
+    font-weight: bold;
+    text-align: center;
+}
